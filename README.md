@@ -1,3 +1,1 @@
-citation:
-
-https://konaeakira.github.io/assets/code-snippets/cycle-detection-with-spfa.cpp
+Citation: https://konaeakira.github.io/assets/code-snippets/cycle-detection-with-spfa.cpp
